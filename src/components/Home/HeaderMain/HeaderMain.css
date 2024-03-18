@@ -1,0 +1,14 @@
+.contint{
+    height: 600px;
+    width: 100%;
+}
+img{
+    max-width: 100%;
+}
+.contint h1{
+    color: #3A4256;
+}
+button{
+    background: linear-gradient(45deg, #0fb9b1, #08837d);
+    border: none;
+}

@@ -1,0 +1,25 @@
+.info-cart{
+    padding: 5px 5px;
+}
+.info-primary{
+    background-color: #1CC7C1;
+}
+.info-dark{
+    background-color: #3A4256;
+}
+.icon-info{
+    font-size: 3em;
+}
+.info-content{
+    color: #fff;
+    display: flex;
+    height: 80px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    margin: 0;
+}
+.info-padding{
+   margin-right: 15px;
+}
