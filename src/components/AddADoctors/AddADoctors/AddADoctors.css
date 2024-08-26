@@ -1,0 +1,11 @@
+.side-containt{
+    display: grid;
+    grid-template-columns: 25% 70%;
+}
+.btn{
+    cursor: pointer;
+    padding: 5px 20px;
+    border-radius: 5px;
+    outline: none;
+    border: 2px solid goldenrod;
+}

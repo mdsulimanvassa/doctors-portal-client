@@ -1,0 +1,11 @@
+.text-container h1{
+    text-align: center;
+    color: #1CC7C1;
+    margin-bottom: 50px;
+}
+.bookCart-container{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}

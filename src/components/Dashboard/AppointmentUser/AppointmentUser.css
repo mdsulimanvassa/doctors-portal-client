@@ -1,0 +1,8 @@
+.appointment-user{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-bassic{
+    flex-basis: 15%;
+    margin: 15px;
+}

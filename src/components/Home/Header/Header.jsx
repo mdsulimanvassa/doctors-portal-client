@@ -1,5 +1,5 @@
 import React from 'react';
-import Navber from '../Navber/Navber';
+import Navber from '../../Share/Navber/Navber';
 import HeaderMain from '../HeaderMain/HeaderMain';
 import './Header.css';
 import BusinessInfo from '../BusinessInfo/BusinessInfo';

@@ -1,0 +1,17 @@
+.flex-bassic{
+    width: 32%;
+}
+.book-shadow{
+    box-shadow: 1px 1px 10px #ecf0f1;
+    padding: 20px;
+    margin: 10px;
+}
+.button-content button{
+    background-image: linear-gradient(45deg, #18D3B3, #10CFEA);
+    padding: 5px 10px;
+    color: #fff;
+    border-radius: 3px;
+}
+.button-content h5{
+    color: #3ACFC9;
+}
